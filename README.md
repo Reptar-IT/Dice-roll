@@ -1,6 +1,5 @@
 # Dice Roll
-A dice game.
+A fun dice game. Invite a friend, discover who is the lucky one. 
 
 # What I learned
-- DOM Manipulation
-- Conditionals and loops
+- JavaScript DOM Manipulation using conditionals and loops
